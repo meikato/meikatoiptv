@@ -631,7 +631,7 @@ https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/play
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="AniPlus.MACAN" tvg-name="AniPlus" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://bit.ly/3BlZdj8" group-title="Entertainment",Aniplus
+#EXTINF:-1 tvg-id="AniPlus.MACAN" tvg-name="AniPlus" tvg-country="JP" tvg-language="Japanese;Indonesian" tvg-logo="https://bit.ly/3BlZdj8" group-title="Kids",Aniplus
 http://210.210.155.35:80/session/05ca7a1e-5492-11eb-901e-b82a72d63267/dr9445/h/h02/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -642,11 +642,11 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="Entertainment",TVN
-http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-id="TVNMoviesIndonesia.kr" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="Entertainment",tvN Movies
+#EXTINF:-1 tvg-id="TVNMoviesIndonesia.kr" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="Movies",tvN Movies
 http://rr1.dens.tv/h/h21/index.m3u8
 
 
@@ -783,5 +783,17 @@ https://Lnk.ec/waku2?shareext.ts
 
 #EXTINF:-1 tvg-logo="http://bit.ly/EGGnet" tvg-id="eGG.MACAN" tvg-name="egg network" group-title="Entertainment",egg network
 http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="The Maze Runner (2014)" tvg-logo="https://i.imgur.com/xpYw4gO.jpg" group-title="Bioskop",The Maze Runner (2014)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960232
+
+#EXTINF:-1 tvg-id="" tvg-name="The Monkey King Caused Havoc in Dragon Palace (2019)" tvg-logo="https://i.imgur.com/xpYw4gO.jpg" group-title="Bioskop",The Monkey King Caused Havoc in Dragon Palace (2019)
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959740
+
+#EXTINF:-1 tvg-id="" tvg-name="The Odd Family Zombie On Sale (2019 )" tvg-logo="https://i.imgur.com/xpYw4gO.jpg" group-title="Bioskop",The Odd Family Zombie On Sale (2019 )
+https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959796
+
+
+
 
 https://Lnk.ec/waku2?shareext.ts
