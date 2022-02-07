@@ -162,8 +162,6 @@ http://rr2.dens.tv/s/s10/01.m3u8
 #EXTINF:-1 tvg-id="UGTV" tvg-name="" tvg-url="" tvg-logo="https://ugtv.co.id/wp-content/uploads/2021/01/logo-ug.png" group-title="Lokal",UGTV
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lokal",national geogrphic indo
-http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
