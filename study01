@@ -60,7 +60,7 @@ https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #EXTINF:-1 tvg-id="RTV.MACAN" tvg-name="RTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_vjWrCLS7f4KsdCrDKXDcn7gDAZHyaoxj9A&s" group-title="Lokal",RTV
 https://iptv.mwafa.net/vidio/1561/index.m3u8?token=1999
 
-KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="Rajawali TV" tvg-name="Rajawali TV" tvg-url="http://www.useetv.com" tvg-logo="http://dusktill.masuk.web.id/img/rtv.png" group-title="Lokal",Rajawali TV
 https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
