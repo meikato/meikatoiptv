@@ -404,18 +404,18 @@ https://www.wopep.com/02_PremierHD3_720p/chunklist.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://i.ibb.co/KKsvZsD/Tpf4.png", PREMIER FOOTBALL HD 4
 https://wopep.com/02_PremierHD4_720p/chunklist.m3u8
 
-#EXTINF:0 tvg-id="FOXSports1.us" group-title="TV SPORT",Fox Sports 1
-http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
-https://dl.dropboxusercontent.com/s/dcq3pnuvjnbgubb/halakkita_1080p.ts
-#EXTINF:0 tvg-id="FoxSports2.mx" group-title="TV SPORT",Fox Sports 2
-http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
-http://45.179.140.242:8000/play/a0k3
-#EXTINF:0 tvg-id="FoxSports3.mx" group-title="TV SPORT",FOX Sports 3
-http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
-http://45.179.140.242:8000/play/a0ik
+<!--#EXTINF:0 tvg-id="FOXSports1.us" group-title="TV SPORT",Fox Sports 1
+<!--http://181.191.141.4:9981/stream/channelid/324572227?profile=pass
+<!--https://dl.dropboxusercontent.com/s/dcq3pnuvjnbgubb/halakkita_1080p.ts
+<!--#EXTINF:0 tvg-id="FoxSports2.mx" group-title="TV SPORT",Fox Sports 2
+<!--http://181.191.141.4:9981/stream/channelid/1795408407?profile=pass
+<!--http://45.179.140.242:8000/play/a0k3
+<!--#EXTINF:0 tvg-id="FoxSports3.mx" group-title="TV SPORT",FOX Sports 3
+<!--http://181.191.141.4:9981/stream/channelid/1539821382?profile=pass
+<!--http://45.179.140.242:8000/play/a0ik
 
-#EXTINF:-1 group-title="TV SPORT", NBA 
-http://012345x.com:999/J4Kpv1lnjH/60eVmfhJAn/71778
+<!--#EXTINF:-1 group-title="TV SPORT", NBA 
+<!--http://012345x.com:999/J4Kpv1lnjH/60eVmfhJAn/71778
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
