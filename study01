@@ -359,8 +359,10 @@ https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 EXTINF:-1 group-title="Movies", PremierHD2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies", PARAMOUNT
-https://cubmu.nomaden.tv:8279/PARAMOUNT/playlist.m3u8
+
+
+<!--#EXTINF:-1 tvg-logo="" group-title="Movies", PARAMOUNT
+<!--https://cubmu.nomaden.tv:8279/PARAMOUNT/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies", BIOSKOP IND
 https://Lnk.ec/bioskopIndo?shareext.ts
@@ -625,7 +627,7 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="NickJrAsia.us" tvg-name="Nick Jr" tvg-logo="https://i.ibb.co/4m6tX5J/bgfg.png" group-title="Kids",Nick Junior
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
+https://m3u-editor.com/serve/e1b55a60-8867-11ec-91db-35b15c833cc0/493760156
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -663,12 +665,15 @@ http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png"" group-title="Kids",DISNEY JUNIOR
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+https://m3u-editor.com/serve/e1b55a60-8867-11ec-91db-35b15c833cc0/493760150
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpFK81bb/10460867-ico.png" group-title="Kids",DISNEY CHANNEL
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+https://m3u-editor.com/serve/e1b55a60-8867-11ec-91db-35b15c833cc0/493760149
+
+#EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dreamworks" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="Kids", Dreamworks
+https://m3u-editor.com/serve/e1b55a60-8867-11ec-91db-35b15c833cc0/493760153
 
 #EXTINF:-1 tvg-id="duniaanak" tvg-logo="https://i.postimg.cc/PJmtbJ9Y/logo-duniaanak-big1.png" group-title="Kids",Dunia Anak
 #https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
