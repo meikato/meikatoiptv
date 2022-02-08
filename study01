@@ -431,14 +431,14 @@ https://stream1.1616.ro:1945/looksport3/livestream/playlist.m3u8?wowzatokenhash=
 #EXTINF:-1 group-title="Sports", Look Sport+
 https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
 
-<!--#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 1
-<!--https://m3u-editor.com/live/serve/fhjhddfnmh/409160916.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 1
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions1.m3u8
 
-<!--#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 2
-<!--https://m3u-editor.com/live/serve/fhjhddfnmh/409160917.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 2
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions2.m3u8
 
-<!--#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 3
-<!--https://m3u-editor.com/live/serve/fhjhddfnmh/409254760.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sports",Champions TV 3
+http://tvnasional.mobie.in/PREMIER_VIDIO/Champions3.m3u8
 
 <!--#EXTINF:-1 group-title="Sports", ASTRO ARENA
 <!--http://iptv.tvmalaysia.cc:80/penang190/penang190/6707
