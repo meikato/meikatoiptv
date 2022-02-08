@@ -753,12 +753,12 @@ https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainm
 #EXTINF:-1 tvg-id="TVN.MACAN" tvg-name="tvN" tvg-logo="https://i.ibb.co/hFrZwVC/VSDAD.png" group-title="Entertainment",TVN
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
-http://rr.dens.tv/h/h14/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
-http://rr.dens.tv/h/h16/index2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
-http://rr.dens.tv/h/h15/index2.m3u8
+<!--#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Movies
+<!--http://rr.dens.tv/h/h14/index2.m3u8
+<!--#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Family Movies
+<!--http://rr.dens.tv/h/h16/index2.m3u8
+<!--#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
+<!--http://rr.dens.tv/h/h15/index2.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
