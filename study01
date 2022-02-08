@@ -675,15 +675,15 @@ https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 <!--#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2SVng4t/DISCOVERY-KIDS.png" group-title="Kids",Discovery KIDS
 <!--http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png"" group-title="Kids",DISNEY JUNIOR
-http://139.99.71.104:8888/live/blink12/9x21w1sniq/37401.ts
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+<!--#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png"" group-title="Kids",DISNEY JUNIOR
+<!--http://139.99.71.104:8888/live/blink12/9x21w1sniq/37401.ts
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpFK81bb/10460867-ico.png" group-title="Kids",DISNEY CHANNEL
-http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37402.ts
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+<!--#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpFK81bb/10460867-ico.png" group-title="Kids",DISNEY CHANNEL
+<!--http://139.99.71.104:8888/live/blink14/98bi1zi8qq/37402.ts
 
 #EXTINF:-1 tvg-logo="TEST" group-title="Kids",SPACETOON
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
@@ -777,6 +777,9 @@ http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 <!--http://rr.dens.tv/h/h16/index2.m3u8
 <!--#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
 <!--http://rr.dens.tv/h/h15/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/hT2TzOR.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinema" tvg-name="mycinema", My Cinema
+http://rr.dens.tv/h/h192/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1xVBBqG.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia
 http://rr.dens.tv/h/h193/index.m3u8
