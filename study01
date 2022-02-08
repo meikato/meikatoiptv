@@ -670,7 +670,7 @@ https://m3u-editor.com/serve/e1b55a60-8867-11ec-91db-35b15c833cc0/493760150
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/rpFK81bb/10460867-ico.png" group-title="Kids",DISNEY CHANNEL
-http://main-a.for-our.info:8081/tv11//disney/playlist.m3u8
+http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
 
 #EXTINF: -1 tvg-id="(no tvg-id)" tvg-name="Dreamworks" tvg-logo="http://rockets.ws/logo/astrogo.png" group-title="Kids", Dreamworks
 https://m3u-editor.com/serve/e1b55a60-8867-11ec-91db-35b15c833cc0/493760153
