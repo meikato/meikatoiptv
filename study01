@@ -670,7 +670,7 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.postimg.cc/wj9BV56v/logo-davinci-big1.png" group-title="Kids",DAVINCI KIDS
-http://rr.dens.tv/h/h01/index2.m3u8
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/T2SVng4t/DISCOVERY-KIDS.png" group-title="Kids",Discovery KIDS
 http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
@@ -777,6 +777,17 @@ http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
 <!--http://rr.dens.tv/h/h16/index2.m3u8
 <!--#EXTINF:-1 tvg-logo="" group-title="Movies",FOX Action Movies
 <!--http://rr.dens.tv/h/h15/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/1xVBBqG.png?v=1.0.0.1" group-title="Movies" tvg-id="mycinemaasia" tvg-name="mycinemaasia", My Cinema Asia
+http://rr.dens.tv/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://warningfm.github.io/v3/img/rCLnw5V.png?v=1.0.0.1" group-title="Movies", Action Hollywood Movies
+http://203.154.177.124:8899/live/ch7/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/2WAm2W4.png?v=1.0.0.1" group-title="Movies" tvg-id="ONE HD" tvg-name="ONE HD", ONE
+https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
