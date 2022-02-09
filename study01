@@ -353,11 +353,11 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="Movies",ZEE Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 group-title="Movies", PremierHD1
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
+<!--#EXTINF:-1 group-title="Movies", PremierHD1
+<!--https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="Movies", PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+<!--#EXTINF:-1 group-title="Movies", PremierHD2
+<!--https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="starmovies" tvg-logo="" group-title="Movies",Star movies
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
