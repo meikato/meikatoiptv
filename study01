@@ -664,21 +664,21 @@ https://mkctvbro.my.id/horas/pakailah.m3u8?id=babyfirst&bandwidth=default&sync=0
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnMT1rYT/BABY-TV.png" group-title="Kids",Baby TV
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.postimg.cc/wj9BV56v/logo-davinci-big1.png" group-title="Kids",DAVINCI KIDS
-http://gpc.my.id/vidio/da-vinci.m3u8
+<!--#EXTINF:-1 tvg-id="davinci" tvg-logo="https://i.postimg.cc/wj9BV56v/logo-davinci-big1.png" group-title="Kids",DAVINCI KIDS
+<!--http://gpc.my.id/vidio/da-vinci.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2SVng4t/DISCOVERY-KIDS.png" group-title="Kids",Discovery KIDS
-http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
+<!--#EXTINF:-1 tvg-logo="https://i.postimg.cc/T2SVng4t/DISCOVERY-KIDS.png" group-title="Kids",Discovery KIDS
+<!--http://iptvtree.net:8080/Ainamanja/6a4fef36/264570
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png"" group-title="Kids",DISNEY JUNIOR
-https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+<!--#EXTINF:-1 tvg-logo="https://i.postimg.cc/qMVqtVS2/10460165-ico.png"" group-title="Kids",DISNEY JUNIOR
+<!--https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpFK81bb/10460867-ico.png" group-title="Kids",DISNEY CHANNEL
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
+<!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+<!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
+<!--#EXTINF:-1 tvg-logo="https://i.postimg.cc/rpFK81bb/10460867-ico.png" group-title="Kids",DISNEY CHANNEL
+<!--https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 
 #EXTINF:-1 tvg-id="duniaanak" tvg-logo="https://i.postimg.cc/PJmtbJ9Y/logo-duniaanak-big1.png" group-title="Kids",Dunia Anak
 #https://fikrulmkc.my.id/bagus/usee-duniaanak.m3u8
