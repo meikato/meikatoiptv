@@ -353,11 +353,6 @@ https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd
 #EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-name="ZEE Bioskop" tvg-logo="https://i.ibb.co/V3mWChh/JJGF.png" group-title="Movies",ZEE Bioskop
 https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-EXTINF:-1 group-title="Movies", PremierHD1
-https://www.wopep.com/02_PremierHD1_720p/chunklist.m3u8
-
-EXTINF:-1 group-title="Movies", PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Movies", PARAMOUNT
 https://cubmu.nomaden.tv:8279/PARAMOUNT/playlist.m3u8
@@ -369,6 +364,11 @@ http://tvnid.wapgem.com/vidio/2.m3u8
 
 #EXTINF:-1 group-title="Movies", LOCAL MOVIE 90'S
 https://goldenlivektv.com/Live_TV/Channel_Local-now-movie_of-the-90's.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="CinemaxAsia.us" tvg-name="Cinemax HD"  tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" group-title="Movies",CINEMAX
+https://on-load.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
