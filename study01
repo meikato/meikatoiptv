@@ -879,6 +879,11 @@ https://liveanevia.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/95lMoqu.png" group-title="Entertainment",Food Network
+https://nonton.site:8443/Thopani/Haidir/37411
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="HistoryAsia.us" tvg-name="History" tvg-logo="https://i.ibb.co/6XHgtW7/jy.png" group-title="Knowledge ",History
 https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
