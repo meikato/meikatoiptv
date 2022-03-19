@@ -462,10 +462,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="Sports",SONY Ten 1 HD
 http://103.166.253.222/hls/sonyten1.m3u8
 
-#EXTINF:-1 group-title="Sport HD",SONY Ten 2 HD
+#EXTINF:-1 group-title="Sports",SONY Ten 2 HD
 http://103.166.253.222/hls/sonyten2.m3u8
 
-#EXTINF:-1 group-title="Sport HD",SONY Ten 3 HD
+#EXTINF:-1 group-title="Sports",SONY Ten 3 HD
 http://103.166.253.222/hls/sonyten3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="Sports,Usee Sports 2
