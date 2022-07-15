@@ -149,7 +149,7 @@ http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgCgHQbTqM-Jdafe3L5NX8l1sWWkn8runnQYSrWCaMrTwn0VdLppguNS3_ZZQU8TbIMKXZBkdzWYvWYcewUh5XfE-riBNkQWrkL425E01fzv307m9s73RYwVxzrAs_FhBbRSdMR1aHdzgFIiwENdNCKPiSqkKbxDRFqzsyHj0KX9D1u_OaDnSy5l-xUdw=w320-h320" group-title="Lokal", O CHANNEL
-https://bagoltvku.my.id/PUNYA-MVTV/master-18.m3u8
+http://tvlive.my.id:25461/kevin/kevin/20
 
 #EXTINF:-1 tvg-id="U-Channel" tvg-name="U-Channel" tvg-url="http://www.dens.tv" tvg-logo="https://u-channel.tv/wp-content/uploads/2017/07/Logo-UChannel-400-72dpi-300x125.png" group-title="Lokal",U Channel
 http://rr2.dens.tv/s/s41/01.m3u8
@@ -412,7 +412,7 @@ https://liveanevia.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="Sports",Bein Sport 2 Asia
-https://bit.ly/3t7HM45
+http://gplus.live:8080/168573780756/N9UFR0P64W/58872
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
@@ -462,18 +462,18 @@ https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 http://182.50.65.213:8888/udp/239.239.0.33:3001
 
 #EXTINF:-1 group-title="Sports",SONY Ten 2 HD
-http://182.50.65.213:8888/udp/239.239.0.33:3001
+http://103.55.144.46/hls/sonyten2.m3u8
 
 #EXTINF:-1 group-title="Sports",SONY Ten 3 HD
-http://182.50.65.213:8888/udp/239.239.0.35:3001
+http://103.55.144.46/hls/sonyten3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BnbMFbPz/images-12.jpg" group-title="Sports,Usee Sports 2
 http://15.235.142.228:8080/live/hometvfree/selaludihati/71.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Soccer Channel
-https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+#EXTINF:0 tvg-id="SoccerChannel.id" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_101.png" group-title="Sports",Supersport Premier League
+https://iptv.lancartech.co.id:8443/kumon/kumon/86868
 
 <!--#EXTINF:-1 group-title="Sports", Look Sport 1
 <!--https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
@@ -505,13 +505,13 @@ https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel
 <!--http://tvn.x10.bz/xchannel/master-17.m3u8
 
 #EXTINF:-1 group-title="Sports", Astro SuperSport HD
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115615
+http://tvmalaysia.cc:80/122564/122564/9024
 
 #EXTINF:-1 group-title="Sports", Astro SuperSport 2 HD
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115616
+http://tvmalaysia.cc:80/122564/122564/9025
 
 #EXTINF:-1 group-title="Sports", Astro SuperSport 3 HD
-http://ultratv.one:2095/b6oxQeKNTb/x0zne3Wp/115617
+http://tvmalaysia.cc:80/122564/122564/9020
 
 <!--#EXTINF:-1 group-title="Sports", Astro SuperSport 4 HD
 <!--http://iptv.tvmalaysia.cc:80/penang190/penang190/6712
@@ -1143,8 +1143,8 @@ http://tvn.x10.bz/xchannel/master-21.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
-#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="Movies",Flik
-https://nonton.site:8443/Thopani/Haidir/29592
+#EXTINF:-1 tvg-logo="https://i.imgur.com/khhBdiS.png" group-title="Movies",TV 5 Monde Asia
+https://liveanevia.mncnow.id/live/eds/TV5/sa_dash_vmx/TV5.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnlyqgVPukTFcS9WyWg9sYmmXrLbeMST5Uvg&usqp=CAU" group-title="VOD",Everything Everywhere All sat Once
 https://stream.xpeer.xyz/playlist1/everything-everywhere-all-at-once-2022-19.06.2022-15.14.40/master_480.m3u8#.mp4
