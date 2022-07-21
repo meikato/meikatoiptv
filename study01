@@ -711,6 +711,17 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-id="TVNMoviesIndonesia.kr" tvg-name="tvN Movies" tvg-logo="https://i.ibb.co/WWfn1fR/XCFX.png" group-title="Movies",tvN Movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
+#EXTINF:-1 tvg-ID="KBSWorld.kr" tvg-logo="https://static.epg.best/kr/KBSWorldKr.kr.png" group-title="Korea",KBS World HD
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-ID="KBS1TV.kr" tvg-logo="https://static.epg.best/kr/KBS1.kr.png" group-title="Movies",KBS 1TV
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-ID="KBS2TV.kr" tvg-logo="https://static.epg.best/kr/KBS2.kr.png" group-title="Movies",KBS 2TV
+http://mytv.dothome.co.kr/ch/public/3.php
+#EXTINF:-1 tvg-ID="MBCTV.kr" tvg-logo="https://static.epg.best/kr/MBC.kr.png" group-title="Movies",MBC
+http://mytv.dothome.co.kr/ch/public/21.php
+#EXTINF:-1 tvg-ID="SBSTV.kr" tvg-logo="https://static.epg.best/kr/SBS.kr.png" group-title="Movies",SBS
+http://itskoi.dothome.co.kr/sbs.php?id=S01
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.mncnow.id/images/channel/78c647a5/4116_r32.jpg" group-title="Entertainment",Anhui TV
