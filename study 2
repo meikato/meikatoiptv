@@ -227,11 +227,4 @@ http://hometv.tech:443/live/hometvfree/selaludihati/147.m3u8
 http://hometv.tech:443/live/hometvfree/selaludihati/148.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Kis fm" tvg-logo="https://i.ibb.co/tqwBq0Y/kisfm.png" group-title="Radio",Kis fm
 http://hometv.tech:443/live/hometvfree/selaludihati/149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Gen fm" tvg-logo="https://i.ibb.co/9vX60HD/genfm.png" group-title="Radio",Gen fm
-http://hometv.tech:443/live/hometvfree/selaludihati/150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jak fm" tvg-logo="https://i.ibb.co/bKFHYN1/jakfm.png" group-title="Radio",Jak fm
-http://hometv.tech:443/live/hometvfree/selaludihati/151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hot fm" tvg-logo="https://i.ibb.co/RgSL43h/hot.png" group-title="Radio",Hot fm
-http://hometv.tech:443/live/hometvfree/selaludihati/152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Most Radio" tvg-logo="https://i.ibb.co/pbXqTkN/mostfm.png" group-title="Radio",Most Radio
-http://hometv.tech:443/live/hometvfree/selaludihati/153.m3u8
+
