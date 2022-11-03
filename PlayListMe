@@ -53,6 +53,26 @@ http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTI" tvg-name="RCTV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/radar-cirebon-tv-id.png" group-title="Lokal",RCTV
 http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="DAAI TV" tvg-name="DAAI TV" tvg-logo="" group-title="Lokal",DAAI TV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1 tvg-id="Elshinta TV" tvg-name="Elshinta TV" tvg-logo="" group-title="Lokal",Elshinta TV
+http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
+
+#EXTINF:-1 tvg-id="TVONE" tvg-name="TVONE" tvg-logo="TVONE" group-title="Lokal",TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-id="METRO TV" tvg-name="METRO TV" tvg-logo="" group-title="Lokal",METRO TV
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(bd164a95-722d-40db-a596-687c8123f197)/manifest.mpd
+
+#EXTINF:-1 tvg-id="MAGNA CHANNEL" tvg-name="MAGNA CHANNEL" tvg-logo="" group-title="Lokal",MAGNA CHANNEL
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lokal",
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lokal",
+
+
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="ASIA TV",TVN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 
@@ -83,97 +103,96 @@ http://210.210.155.35/session/5f42685a-74e8-11ec-8b65-b82a72d63267/uq2663/h/h193
 #EXTINF:-1 tvg-id="MY FAMILY CH" tvg-name="MY FAMILY CH" tvg-logo="" group-title="ASIA TV",MY FAMILY CH
 http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
 
-#EXTINF:-1 tvg-id="CHINESE DRAMA" tvg-name="CHINESE DRAMA" tvg-logo="" group-title="ASIA TV",CHINESE DRAMA
-https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015958.m3u8
+#EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="" group-title="ASIA TV",KIX
+http://210.210.155.37:80/dr9445/h/h07/index.m3u8
 
 #EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="" group-title="ASIA TV",THRILL
 http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="HBO",HBO
-https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPOTV 1" tvg-name="SPOTV 1" tvg-logo="" group-title="SPORT",SPOTV 1
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="HBO HITS" tvg-name="HBO HITS" tvg-logo="" group-title="HBO",HBO HITS
-https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-name="SPOTV 2" tvg-logo="" group-title="SPORT",SPOTV 2
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_2/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="" group-title="HBO",HBO FAMILY
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 tvg-id="IN WILD" tvg-name="IN WILD" tvg-logo="" group-title="PENGETAHUAN",IN WILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="HBO",HBO SIGNATURE
-https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-name="LOVE NATURE" tvg-logo="" group-title="PENGETAHUAN",LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",
 
 VOD
-#EXTINF:-1, ALITA BATTLE ANGEL (2019)
+#EXTINF:-1 group-title="VOD", ALITA BATTLE ANGEL (2019)
 http://188.165.227.112/portail/films/Alita.Battle.Angel.2019.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-EXTREME.mkv
 
-#EXTINF:-1, AVENGERS - INFINITY WAR (2018)
+#EXTINF:-1 group-title="VOD", AVENGERS - INFINITY WAR (2018)
 http://188.165.227.112/portail/films/Avengers%20-%20Infinity%20War%20(2018)%20%5b1080p%20BluRay%5d%20%5bFR(VFF)-EN%5d%20%5bx265%2010-bit%20AC3%5d%20%5bGWEN%5d.mkv
 
-#EXTINF:-1, AVENGERS - END GAME (2019)
+#EXTINF:-1 group-title="VOD", AVENGERS - END GAME (2019)
 http://188.165.227.112/portail/films/Avengers%20Endgame%202019%201080p%20VFF%20EN%20X264%20AC3-mHDgz.mkv
 
-#EXTINF:-1, BLACK PANTHER (2018)
+#EXTINF:-1 group-title="VOD", BLACK PANTHER (2018)
 http://188.165.227.112/portail/films/Black.Panther.2018.MULTi.1080p.BluRay.Light.x265.HEVC.AC3-ACOOL.mkv
 
-#EXTINF:-1, JOKER (2019)
+#EXTINF:-1 group-title="VOD", JOKER (2019)
 http://188.165.227.112/portail/films/Joker.2019.MULTi.TRUEFRENCH.1080p.HDLight.x264.AC3-TOXIC.mkv
 
-#EXTINF:-1, THE AMAZING SPIDERMAN (2012)
+#EXTINF:-1 group-title="VOD", THE AMAZING SPIDERMAN (2012)
 http://188.165.227.112/portail/films/The.Amazing.Spiderman.2012.TRUEFRENCH.DVDRip.XviD-Parker.avi
 
-#EXTINF:-1, WOMAN AT WAR (2018)
+#EXTINF:-1 group-title="VOD", WOMAN AT WAR (2018)
 http://188.165.227.112/portail/films/Woman.at.War.(2018).VOSTFR.x265.1080p.HDLight.KiRA.mkv
 
-#EXTINF:-1, TERROR ON THE PRAIRIE (2022)
+#EXTINF:-1 group-title="VOD", TERROR ON THE PRAIRIE (2022)
 http://162.12.215.254/Data/Movies/Hollywood/2022/Terror.on.the.Prairie.2022.720p.WEB.DL..mp4
 
-#EXTINF:-1, THE PRINCESS (2022)
+#EXTINF:-1 group-title="VOD", THE PRINCESS (2022)
 http://162.12.215.254/Data/Movies/Hollywood/2022/The.Princess.2022.720p.WEB.DL.mp4
 
-#EXTINF:-1, MORTAL COMBAT (2021)
+#EXTINF:-1 group-title="VOD", MORTAL COMBAT (2021)
 http://162.12.215.254/Data/Movies/Hollywood/2021/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB/Mortal%20Kombat%20%282021%29%20English%20720p%20HDRip%20x264%20900MB.mkv
 
-#EXTINF:-1, SAS RED NOTICE (2021)
+#EXTINF:-1 group-title="VOD", SAS RED NOTICE (2021)
 http://162.12.215.254/Data/Movies/Hollywood/2021/SAS%20Red%20Notice%202021%20720p%20WEB-DL%20x264%20ESubs/SAS%20Red%20Notice%202021%20720p%20WEB-DL%20x264%20ESubs.mkv
 
-#EXTINF:-1, WRATH OF MAN (2021)
+#EXTINF:-1 group-title="VOD", WRATH OF MAN (2021)
 http://162.12.215.254/Data/Movies/Hollywood/2021/Wrath%20of%20Man%202021%20English%20720p%20Web-DL%20900MB/Wrath%20of%20Man%202021%20English%20720p%20Web-DL%20900MB%20ESubs.mkv
 
-#EXTINF:-1, THOR LOVE & THUNDER (2022)
+#EXTINF:-1 group-title="VOD", THOR LOVE & THUNDER (2022)
 http://sv3.hivamovie.com/new/Movie/Thor.4.Love.and.Thunder.2022/Thor.Love.and.Thunder.2022.HDCAM.850MB.c1nem4.x264-SUNSCREEN.HivaMovie.mkv
 
-#EXTINF:-1, SONIC THE HEDGEHOG 2 (2022)
+#EXTINF:-1 group-title="VOD", SONIC THE HEDGEHOG 2 (2022)
 http://sv3.hivamovie.com/new/Movie/Sonic.the.Hedgehog.2.2022/Sonic.the.Hedgehog.2.2022.720p.Farsi.Subbed.HivaMovie.mkv
 
-#EXTINF:-1, COSMIC SIN (2021)
+#EXTINF:-1 group-title="VOD", COSMIC SIN (2021)
  http://162.12.215.254/Data/Movies/Hollywood/2021/Cosmic%20Sin%202021%20English%20720p%20WEB-DL%20x264%20ESubs/Cosmic%20Sin%202021%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
 
-#EXTINF:-1, SPIDERMAN (2019) - INTO SPDER VERSE
+#EXTINF:-1 group-title="VOD", SPIDERMAN (2019) - INTO SPDER VERSE
 http://dl3.3rver.org/cdn2/02/film/2018/Spider%20Man%20Into%20The%20Spider%20Verse/Spider-Man.Into.The.Spider-Verse.2018.720p.BluRay.x264.YIFY.mp4
 
-#EXTINF:-1, VIKRAM-HINDI(2022)
+#EXTINF:-1 group-title="VOD", VIKRAM-HINDI(2022)
 http://162.12.215.254/Data/Movies/Hindi/2022/Vikram%202022%201080p%20HD.mp4
 
-#EXTINF:-1, SYNCHRONIC (2021)
+#EXTINF:-1 group-title="VOD", SYNCHRONIC (2021)
 http://162.12.215.254/Data/Movies/Hollywood/2021/Synchronic%202020%20English%20720p%20WEB-DL%20x264%20ESubs/Synchronic%202020%20English%20720p%20WEB-DL%20x264%20ESubs.mkv
 
-#EXTINF:-1, ANGELS FALLEN (2020)
+#EXTINF:-1 group-title="VOD", ANGELS FALLEN (2020)
 http://162.12.215.254/Data/Movies/Hollywood/2020/Angels%20Fallen%20%282020%29%20720p%20WEB-DL%20575MB/Angels%20Fallen%20%282020%29%20720p%20WEB-DL%20575MB.mkv
 
-#EXTINF:-1, BEFORE THE FIRE (2020)
+#EXTINF:-1 group-title="VOD", BEFORE THE FIRE (2020)
 http://162.12.215.254/Data/Movies/Hollywood/2020/Before%20the%20Fire%202020%20English%20720p%20WEB-DL%20x264/Before%20the%20Fire%202020%20English%20720p%20WEB-DL%20x264.mkv
 
-#EXTINF:-1, FAST & FIERCE DEATH RACE (2020)
+#EXTINF:-1 group-title="VOD", FAST & FIERCE DEATH RACE (2020)
 http://162.12.215.254/Data/Movies/Hollywood/2020/Fast%20and%20Fierce%20Death%20Race%202020%20English%20720p%20HDRip%20800MB/Fast%20and%20Fierce%20Death%20Race%202020%20English%20720p%20HDRip%20800MB.mkv
 
-#EXTINF:-1, IPMAN 4 (2019)
+#EXTINF:-1 group-title="VOD", IPMAN 4 (2019)
 http://162.12.215.254/Data/Movies/Hollywood/2020/IP%20Man%204%20%282019%29%20English%20720p%20HDRip%20x264/IP%20Man%204%20%282019%29%20English%20720p%20HDRip%20x264.mkv
 
-#EXTINF:-1, FOXTROT SIX (2020)
+#EXTINF:-1 group-title="VOD", FOXTROT SIX (2020)
 http://162.12.215.254/Data/Movies/Hollywood/2020/Foxtrot%20Six%202020%20English%20720pHDRip%20800MB/Foxtrot%20Six%202020%20English%20720pHDRip%20800MB.mkv
 
-#EXTINF:-1, HARD KILL (2020)
+#EXTINF:-1 group-title="VOD", HARD KILL (2020)
 http://162.12.215.254/Data/Movies/Hollywood/2020/Hard%20Kill%202020%20%5BEng%205.1ch%5D%20720p%20WEB%20HDRip%20750Mb%20ESub%20x264/Hard%20Kill%202020%20%5BEng%205.1ch%5D%20720p%20WEB%20HDRip%20750Mb%20ESub%20x264.mkv
 
 
