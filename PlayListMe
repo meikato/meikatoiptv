@@ -56,11 +56,52 @@ http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVN" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/512px-Logo_tvN.svg.png" group-title="ASIA TV",TVN
 http://210.210.155.37/dr9445/h/h20/index.m3u8
 
-#EXTINF:-1 tvg-id="TVN MOVIE" tvg-name="TVN MOVIE" tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="Lokal",TVN MOVIE
+#EXTINF:-1 tvg-id="TVN MOVIE" tvg-name="TVN MOVIE" tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="ASIA TV",TVN MOVIE
 http://210.210.155.37/dr9445/h/h21/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Lokal",
+#EXTINF:-1 tvg-id="CELESTIAL MOVIE" tvg-name="CELESTIAL MOVIE" tvg-logo="" group-title="ASIA TV",CELESTIAL MOVIE
+http://rr1.dens.tv/h/h14/02.m3u8?chname=Celestial_Movies
 
+#EXTINF:-1 tvg-id="CELESTIAL CS MOVIE" tvg-name="CELESTIAL CS MOVIE" tvg-logo="" group-title="ASIA TV",CELESTIAL CS MOVIE
+http://rr2.dens.tv/s/s31/index.m3u8
+
+#EXTINF:-1 tvg-id="CINEMA WORLD" tvg-name="CINEMA WORLD" tvg-logo="" group-title="ASIA TV",CINEMA WORLD
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+
+#EXTINF:-1 tvg-id="HITS" tvg-name="HITS" tvg-logo="" group-title="ASIA TV",HITS
+http://210.210.155.35:80/dr9445/h/h37/02.m3u8
+
+#EXTINF:-1 tvg-id="ZEE BIOSKOP" tvg-name="ZEE BIOSKOP" tvg-logo="" group-title="ASIA TV",ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="" group-title="ASIA TV",AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+
+#EXTINF:-1 tvg-id="MY CINEMA ASIA" tvg-name="MY CINEMA ASIA" tvg-logo="" group-title="ASIA TV",MY CINEMA ASIA
+http://210.210.155.35/session/5f42685a-74e8-11ec-8b65-b82a72d63267/uq2663/h/h193/index.m3u8
+
+#EXTINF:-1 tvg-id="MY FAMILY CH" tvg-name="MY FAMILY CH" tvg-logo="" group-title="ASIA TV",MY FAMILY CH
+http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
+
+#EXTINF:-1 tvg-id="CHINESE DRAMA" tvg-name="CHINESE DRAMA" tvg-logo="" group-title="ASIA TV",CHINESE DRAMA
+https://m3u-editor.com/serve/75835610-a7ed-11ec-86dd-4356fc7056f7/528015958.m3u8
+
+#EXTINF:-1 tvg-id="THRILL" tvg-name="THRILL" tvg-logo="" group-title="ASIA TV",THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="" group-title="HBO",HBO
+https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HBO HITS" tvg-name="HBO HITS" tvg-logo="" group-title="HBO",HBO HITS
+https://vips-livecdn.fptplay.net/hda1/cinemax_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="" group-title="HBO",HBO FAMILY
+https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="HBO",HBO SIGNATURE
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="HBO",
 
 VOD
 #EXTINF:-1, ALITA BATTLE ANGEL (2019)
