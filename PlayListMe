@@ -6,8 +6,21 @@ EXTM3U url-tvg="https://bit.ly/3itZsSm"
 #EXTINF:-1 tvg-id="O Channel" tvg-name="O Channel" tvg-logo="http://ziveig.wap.sh/TV/TV.jpg" group-title="Lokal",O Channel
 http://210.210.155.37/qwr9ew/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="http://ziveig.wap.sh/TV/RCTI.jpg" group-title="Lokal",RCTI
-https://d2s97x1gdf3esf.cloudfront.net/out/v1/c1c8f8c23f4e40f089a96ebda156816a/index.m3u8
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20053038_ico.png?ts=1654801099" group-title="Lokal",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d35d0ifx19oopq.cloudfront.net/RCTI_2021.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20690321_ico.png?ts=1654801175" group-title="Lokal",GTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d322b885qvsbxg.cloudfront.net/GTV2021.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-country="ID" tvg-language="English;Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20052989_ico.png?ts=1654801219" group-title="Lokal",MNC TV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+
+#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20015768_ico.png?ts=1654989306" group-title="Lokal",iNews
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d2hfpzcndkyscp.cloudfront.net/INEWS_2021.m3u8
 
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="https://i.imgur.com/EMmOvnQ.png" group-title="Lokal",SCTV
 http://210.210.155.37/qwr9ew/s/s03/index.m3u8
@@ -82,6 +95,9 @@ http://210.210.155.37/dr9445/h/h20/index.m3u8
 
 #EXTINF:-1 tvg-id="TVN MOVIE" tvg-name="TVN MOVIE" tvg-logo="https://i.imgur.com/oLzTyUX.png" group-title="ASIA TV",TVN MOVIE
 http://210.210.155.37/dr9445/h/h21/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19522353_ico.png?ts=1660523141" group-title="ASIA TV",Kplus
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8|User-Agent=Lavf/56.15.102
 
 #EXTINF:-1 tvg-id="CELESTIAL MOVIE" tvg-name="CELESTIAL MOVIE" tvg-logo="" group-title="ASIA TV",CELESTIAL MOVIE
 http://rr1.dens.tv/h/h14/02.m3u8?chname=Celestial_Movies
@@ -200,3 +216,21 @@ http://162.12.215.254/Data/Movies/Hollywood/2020/Foxtrot%20Six%202020%20English%
 http://162.12.215.254/Data/Movies/Hollywood/2020/Hard%20Kill%202020%20%5BEng%205.1ch%5D%20720p%20WEB%20HDRip%20750Mb%20ESub%20x264/Hard%20Kill%202020%20%5BEng%205.1ch%5D%20720p%20WEB%20HDRip%20750Mb%20ESub%20x264.mkv
 
 
+#EXTINF:-1 group-title="Bollywood",Charmsukh - Tapan 1
+https://c5.videobin.co/hls/,oudvgz4v2ntk2yixv7xokedridkifktgdssi7q776mqnmtj4y5c5wf4jabaa,.urlset/master.m3u8
+#EXTINF:-1 group-title="Bollywood",Dangerous Date
+https://c7.videobin.co/hls/,oudvhauu2ntk2yixv7v6kur5j7ivmojwofinrgvdixheknypu4jj5pxmmgaa,.urlset/master.m3u8
+#EXTINF:-1 group-title="Bollywood",Hawas Ki Raat 2022 2
+https://c1.videobin.co/hls/,oudvhhmu2ntk2yixv7vokxl7lrxknspbsl7aootb5nsuv2nmxyw2xsjr7qoq,.urlset/master.m3u8
+#EXTINF:-1 group-title="Bollywood",Kulta 2022 2
+https://c4.videobin.co/hls/,oudvg7uv2ntk2yixv7vokabpduz37fonyd4wuxbsghk5skykhwj7am36nbga,.urlset/master.m3u8
+#EXTINF:-1 group-title="Bollywood",Love in Goa 2022 1
+https://c1.videobin.co/hls/,oudvhbeu2ntk2yixv7qokajxl2iktjbmmf7uo6lkbd72i37sxw73mje3higq,.urlset/master.m3u8
+#EXTINF:-1 group-title="Bollywood",Paglet 2022
+https://c1.videobin.co/hls/,oudvg6uv2ntk2yixv736kbzfjfavsgwsdkvqylfbsgm4lq6o6otbuyklwzrq,.urlset/master.m3u8
+#EXTINF:-1 group-title="Bollywood",Samne Wali Khidki 2
+https://c7.videobin.co/hls/,oudvg7ev2ntk2yixv7vokdralsc5bm5rcsjmlwe2bianat66onzxrfm3vyva,.urlset/master.m3u8
+#EXTINF:-1 group-title="Bollywood",Shahadiii
+https://c5.videobin.co/hls/,oudvhhuu2ntk2yixv7vokujxdfidwx7xfrynrtvaecini54cszqjkua3f2vq,.urlset/master.m3u8
+#EXTINF:-1,TV5
+https://cdn6.goprimetime.info/feed/202205171929/ch5hd/index.m3u8
