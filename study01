@@ -2,6 +2,7 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
 #EXTM3U x-url-tvg="https://bit.ly/3itZsSm"
 #EXTM3U x-url-tvg="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml"
+#EXTM3U url-tvg="http://m3u4u.com/epg/5g28neg2v8hwppm8nzpe"
 
 
 
@@ -442,6 +443,18 @@ https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
 #EXTINF:-1 tvg-id="Erz.mnctv" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/18355963_ico.png?ts=1643984665" group-title="Sports", SPO TV 2
 https://liveanevia.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:0 group-title="Sports" tvg-logo="https://prtimes.jp/i/6942/382/origin/d6942-382-523584-0.png",QTR
+https://webudi.openhd.lol/cdn/eplayerfs1/index.m3u8?|Referer=https://player.licenses4.me/player.php?id=private
+
+#EXTINF:0 group-title="Sports" tvg-logo="https://prtimes.jp/i/6942/382/origin/d6942-382-523584-0.png",QTR
+https://webudi.openhd.lol/cdn/eplayerTSN_1_HD/index.m3u8?|Referer=https://player.licenses4.me/player.php?id=private
+
+#EXTINF:0 group-title="Sports" tvg-logo="https://prtimes.jp/i/6942/382/origin/d6942-382-523584-0.png",QTR
+https://nflarcadia.xyz/hls/s1.m3u8?|Referer=https://techclips.net/
+
+#EXTINF:0 group-title="Sports" tvg-logo="https://prtimes.jp/i/6942/382/origin/d6942-382-523584-0.png",QTR
+https://reels2watch.com/hls/s1.m3u8?|Referer=https://techclips.net/
 
 <!--#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 <!--#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
